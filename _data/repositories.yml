@@ -1,0 +1,10 @@
+github_users:
+  - george-gca
+
+github_repos:
+  - george-gca/sr-pytorch-lightning
+  - george-gca/ai_papers_searcher
+  - george-gca/ai_papers_scrapper
+  - george-gca/ai_papers_cleaner
+  - george-gca/ai_papers_search_tool
+  - george-gca/multi-language-al-folio
