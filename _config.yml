@@ -3,14 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: George
-middle_name: C.
-last_name: de Araújo
-email: george.araujo@ic.unicamp.br
-keywords: machine learning, artificial intelligence, deep learning, computer vision, natural language processing # add your own keywords or leave empty
+first_name: Nordine
+middle_name: 
+last_name: Quadar
+email: quadar.nordine@gmail.com
+keywords: Cybersecurity, IoT, TinyML, machine learning, artificial intelligence, deep learning, natural language processing # add your own keywords or leave empty
 icon: 👨🏽‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://george-gca.github.io # the base hostname & protocol for your site
+url: https://nordine.quadar.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -63,28 +63,28 @@ og_image: assets/img/profile_pic.png # The site-wide (default for all links) Ope
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
-dblp_url: https://dblp.org/pid/331/0630.html # your DBLP profile url
+dblp_url:  # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: george-gca # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
-lattes_id: 8522827733075951 # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: georgecdearaujo # your LinkedIn user name
+lattes_id:  # your ID on Lattes (Brazilian Lattes CV)
+linkedin_username:  # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: 0000-0002-7658-2786 # your ORCID ID
+orcid_id:  # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: George-De-Araujo # your profile on ResearchGate
-scholar_userid: kSVOrakAAAAJ # your Google Scholar ID
+research_gate_profile:  # your profile on ResearchGate
+scholar_userid:  # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -368,7 +368,7 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "pt-br"]
+languages: ["en-us", "fr-cn"]
 default_lang: "en-us"
 exclude_from_localization: ["assets", "purgecss.config.js", "package-lock.json", "package.json"]
 lang_from_path: true
