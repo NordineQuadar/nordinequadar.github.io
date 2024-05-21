@@ -279,20 +279,9 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 scholar:
   last_name:
     [
-      Araújo,
-      Araujo,
-      C. de Araújo,
-      C. de Araujo,
-      C. Araújo,
-      C. Araujo,
-      Corrêa de Araújo,
-      Correa de Araujo,
-      Corrêa Araújo,
-      Correa Araujo,
-      de Araújo,
-      de Araujo,
+      Quadar
     ]
-  first_name: [George, G., George Corrêa, George Correa, George C., George]
+  first_name: [Nordine]
 
   style: apa
   locale: en
