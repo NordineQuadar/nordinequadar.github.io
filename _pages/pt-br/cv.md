@@ -5,7 +5,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: George Corrêa de Araújo.pdf
+cv_pdf:
 description: Curriculum Vitae
 toc:
   sidebar: left
