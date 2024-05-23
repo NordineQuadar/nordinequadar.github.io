@@ -8,7 +8,7 @@ middle_name:
 last_name: Quadar 
 email: quadar.nordine@gmail.com
 keywords: Cybersecurity, IoT, TinyML, machine learning, artificial intelligence, deep learning, natural language processing # add your own keywords or leave empty
-icon: 👨🏽‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🔥 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://nordine.quadar.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

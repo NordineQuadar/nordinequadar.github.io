@@ -171,6 +171,8 @@ ul.task-list input[type="checkbox"] {
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
   }
+
+
 }
 
 // Citation
@@ -1138,4 +1140,8 @@ swiper-container {
   .ps-algorithm.with-caption > .ps-line:first-child {
     border-bottom: 2px solid var(--global-text-color);
   }
+}
+
+.desc {
+  color: green; // Change the color to green
 }
