@@ -31,7 +31,7 @@
       year: 2015 - 2018
       location: Ottawa - Canada
       description:
-        - "Supervisor: <a href=\"https://www.eecs.uottawa.ca/~damours/\">Claude D'Amours."
+        - "Supervisor: <a href=\"https://www.eecs.uottawa.ca/~damours/\">Claude D'Amours</a>."
         - "Thesis: Permutation Spreading Technique Employing Spatial Modulation for MIMO-CDMA Systems."
     - title: Bachelor of Applied Science in Electrical Engineering  
       institution: University of Ottawa
@@ -169,7 +169,8 @@
   contents:
   - title: 
     items:
-      - Mitacs - Accelerate program grant (30,000 CAD) - 2023  
+      - Mitacs - Accelerate program grant (60,000 CAD) - 2024/2025 
+      - Mitacs - Accelerate program grant (30,000 CAD) - 2023 
       - Mitacs Business Strategy Internship grant (15,000 CAD) - 2022
       - DC Group Employee of the Month - 2020
       - University of Ottawa Excellence Scholarship for Master's (30,000 CAD) - 2015-2017
