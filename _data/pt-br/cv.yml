@@ -1,0 +1,185 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Nordine Quadar
+    - name: Contact
+      value: quadar.nordine@gmail.com
+    - name: Languages
+      value: English (fluent), French (fluent)
+
+- title: Research Areas
+  type: list
+  contents:
+  - Developing optimized algorithms for machine learning and applying methods to solve cybersecurity issues related to hardware-restricted devices such as IoT, embedded systems, UAVs, etc. Utilizing background in wireless communication to improve physical layer security.
+  - Interested in creating and deploying AI agents that can understand language and reason. Worked on natural language processing with a focus on semantic search.
+  - Research focuses on Cybersecurity, Radio Frequency, Machine Learning, Game Theory, Cognitive Radio, Situation Awareness, Unmanned Aerial Vehicles, and Deception strategy.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: Royal Military College of Canada
+      year: 2022 - 2025
+      location: Kingston - Canada
+      description:
+        - "Supervisor: <a href=\"https://www.chehri.com/\">Abdellah Chehri</a>."
+        - "Research subject: Enhancing UAV Cybersecurity using Edge AI."
+        
+    - title: Master of Applied Science in Electrical & Computer Engineering
+      institution: University of Ottawa
+      year: 2015 - 2018
+      location: Ottawa - Canada
+      description:
+        - "Supervisor: <a href=\"https://www.eecs.uottawa.ca/~damours/\">Claude D'Amours</a>."
+        - "Thesis: Permutation Spreading Technique Employing Spatial Modulation for MIMO-CDMA Systems."
+    - title: Bachelor of Applied Science in Electrical Engineering  
+      institution: University of Ottawa
+      year: 2011 - 2014
+      location: Ottawa - Canada
+
+- title: Professional Experience 
+  type: time_table
+  contents:
+    - title: PhD Researcher
+      institution: Thales 
+      year: since 03/2023
+      location: Montreal - Canada
+      description:
+        - Conduct literature review of state of art cybersecurity techniques used for Unmanned Aerial Vehicles (UAVs).
+        - Conduct in-depth analysis of RF signal datasets to identify potential fingerprints.
+        - Analyze the temporal behavior of RF signal datasets to uncover patterns and trends over time.
+        - Apply time series analysis techniques to study the time-dependent characteristics of signals.
+        - Incorporate time-related features into machine learning models for improved prediction accuracy.
+        - Proficiently code in Python to automate data analysis processes.
+        - Designed and execute research experiments using rigorous methodologies.
+        - Utilize machine learning algorithms for pattern recognition and anomaly detection.
+        - Document research findings and procedures in an electronic notebook.
+        - Create effective data visualizations to communicate research findings.
+        - Present regular oral and written reports to research supervisor and team members.
+    - title: Regional Technical Manager 
+      institution: DC Group
+      year: since 09/2017  
+      location: Montreal- Canada
+      description:
+        - Manage the performance of team members on an on-going basis.
+        - Provide strong leadership and guidance to the team by actively participating in onsite repair and troubleshooting for critical equipment, such as UPS, STS, ATS.
+        - Manage multiple projects concurrently, ensuring on-time and on-budget project delivery, achieving 100% project completion rate.
+        - Serve as the primary technical and operational escalation point for both customers and team members, ensuring quick issue resolution and a 95% customer satisfaction rate.
+        - Oversee change management processes, including the review and approval of all Method of Procedures (MOPs), contributing to a First-Time Fix Rate above 90%.
+        - Identify, select, and develop talent, resulting in 90% of team members' skills and certifications level.
+        - Ensure a safe work environment for all team members.
+        - Evaluate team performance, providing constructive feedback to improve skills and increase productivity.
+        - Monitor and analyze business performance, identifying areas of improvement and implementing necessary adjustments, leading to 10% reduction in operational costs.
+        - Maintain positive customer relations by addressing issues proactively and implementing successful corrective actions, resulting in 10% increase in customer retention.
+        - Contribute to the sales company's service strategic plan and aligning service operations with business objectives.
+    - title: Research Assistant
+      institution: Royal Military College of Canada
+      year: 12/2022 - 01/2023
+      location: Kingston - Canada 
+      description:
+        - Developed detailed one-line diagrams, schematics, wiring diagrams, and specifications, ensuring compliance with the Canadian Electrical Code.
+        - Conducted complete reviews of project documentation, guaranteeing alignment with industry standards.
+        - Attended meetings and delivered presentations to senior managers and clients, effectively communicating project updates and findings.
+    - title: Data Scientist Intern 
+      institution: Xlscout  
+      year: 05/2022 - 03/2022
+      location: Montreal - Canada
+      description: 
+        - Enhanced the ranking algorithm through the implementation of advanced semantic search techniques (GPT-3 model and BERT). Resulted in improved accuracy and efficiency in information retrieval.
+        - Optimized processing speed by incorporating distributed and parallel computing methodologies. 
+        - Collaborated with cross-functional teams to integrate these improvements seamlessly into the  production environment.
+        - Documented and communicated algorithmic enhancements, ensuring knowledge transfer.
+    - title: Junior Electrical Engineer 
+      institution: Ehvert Mission Critical
+      year: 06/2014 - 01/2015
+      location: Toronto - Canada
+      description:
+        - Developed detailed one-line diagrams, schematics, wiring diagrams, and specifications, ensuring compliance with the Canadian Electrical Code.
+        - Conducted complete reviews of project documentation, guaranteeing alignment with industry standards.
+        - Attended meetings and delivered presentations to senior managers and clients, effectively communicating project updates and findings.
+    - title: Service Engineer
+      institution: Schneider Electric   
+      year: 04/2009 - 09/2010
+      location: Morocco
+      description:
+          - Participated in the completion and management of a Tier 4 Datacenter project for Saudi Arabia Telecom Company.
+          - Performed commissioning, troubleshooting, preventive and curative maintenance of all APC products.
+          - Provided on-call and on-site technical customer support, ensuring timely issue resolution and client  satisfaction.
+          - Developed troubleshooting documents of APC products, enhancing support efficiency.
+          - "Designed and conducted training sessions for Schneider’s customers."
+    - title: Maintenance Unti Manager
+      institution: National Office of Railroads
+      year: 09/2005 - 04/2009  
+      location: Morocco
+      description:
+        - Initiated and managed the newly formed electrical maintenance unit, overseeing all aspects of team performance.
+        - Developed and implemented a comprehensive onboarding process for new team members.
+        - Implemented performance metrics and quality control measures, resulting in improvement in overall maintenance efficiency.
+        - Collaborated closely with the manufacturer (Hitachi Rail Italy) to schedule and conduct road tests on newly received trains, ensuring optimal performance and safety standards.
+        - Analyzed and documented the results of performance tests.
+        - Coordinated with the manufacturer's warranty team, to address ongoing issues and facilitate knowledge transfer to the maintenance team.
+        - Acted as a liaison between the manufacturer and the maintenance team, facilitating the exchange of information and problem-solving.
+        - Played a pivotal role in resolving warranty-related matters promptly.
+        - Designed and delivered comprehensive training sessions for the electrical maintenance team, focusing on technical skills, safety protocols, and equipment-specific knowledge.
+        - Established and enforced best practices in safety, legality, and service quality, ensuring compliance with industry standards.
+
+- title: Teaching Experience 
+  type: time_table
+  contents:
+  - title: Teacher (part-time) 
+    institution: La Cité Collégiale
+    year: 01/2016 - 05/2022  
+    location: Ottawa - Canada
+    description:
+      - Prepared and gave lectures.
+      - Conducted laboratories and study groups.
+      - Marked assignments and tests.
+      - "List of Courses:"
+      - Power distribution.
+      - Semiconductor.
+      - Circuit theory.
+  - title: Teaching Assistant 
+    institution: University of Ottawa
+    year: 03/2015 - 08/2017
+    location: Ottawa - Canada
+    description:  
+      - Conducted laboratories and study groups.
+      - Assisted professors with lecture preparation.
+      - Marked assignments and tests.
+      - "List of classes:"
+      - Introduction to computer networks (Summer 2017, Winter 2017, Winter 2016, Summer 2015);
+      - Applied electromagnetism (Fall 2016).
+      - Electronics (Fall 2016).
+      - Circuit theory (Fall 2016, Fall 2015).
+      - Computer architecture (Fall 2015).
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+  - title: 
+    items:
+      - "Programming Languages: Python (advanced), C/C++ (familiar), Mojo."
+      - "Frameworks/Libraries: PyTorch, TensorFlow, NumPy, SciPy, Pandas."
+      - "Database Systems: MySQL, MongoDB, AWS."
+      - Machine Learning, Data Structures and Algorithms, IoT, Embedded Systems, Wireless Communication.
+
+- title: Awards and Honors
+  type: nested_list
+  contents:
+  - title: 
+    items:
+      - Mitacs - Accelerate program grant (60,000 CAD) - 2024/2025 
+      - Mitacs - Accelerate program grant (30,000 CAD) - 2023 
+      - Mitacs Business Strategy Internship grant (15,000 CAD) - 2022
+      - DC Group Employee of the Month - 2020
+      - University of Ottawa Excellence Scholarship for Master's (30,000 CAD) - 2015-2017
+      - University of Ottawa Dean's Honor List - 2013
+
+- title: Professional association
+  type: nested_list
+  contents:
+  - title: 
+    items:  
+    - Professional Engineers Ontario (PEO) - <u>License number:</u> 100212295 
+    - Institute of Electrical and Electronics Engineers (IEEE) - Graduate Student Member
