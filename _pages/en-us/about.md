@@ -52,8 +52,8 @@ animated_background: true # includes an animated background
     </li>
     <li>📖 <strong>Reading:</strong>
         <ul>
-            <li>TinyML.</li>
-            <li>Daring Greatly.</li>
+            <li><a href="https://amzn.to/4bVJppu">TinyML</a>.</li>
+            <li><a href="https://amzn.to/3Koe9Ue">Daring Greatly</a>.</li>
         </ul>
     </li>
     <li>🔬 <strong>Working on:</strong>
