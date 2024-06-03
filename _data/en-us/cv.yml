@@ -1,3 +1,7 @@
+
+---
+related_publications: true
+---
 - title: General Information
   type: map
   contents:
@@ -79,7 +83,7 @@
       location: Kingston - Canada 
       description:
         - Performed research on Intrusion Detection Systems in Automotive Ethernet Networks.
-        - Published research paper {% cite quadar2024intrusion %}, showcasing findings and advancements in the field of automotive network security.
+        - Published research paper {% reference quadar2024intrusion %}, showcasing findings and advancements in the field of automotive network security.
     - title: Data Scientist Intern 
       institution: Xlscout  
       year: 05/2022 - 03/2022
