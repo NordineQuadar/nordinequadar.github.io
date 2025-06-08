@@ -1,0 +1,68 @@
+# Navigation
+nav:
+  home: Accueil
+  about: À propos
+  blog: Blog
+  cv: CV
+  projects: Projets
+  publications: Publications
+  teaching: Enseignement
+  repositories: Référentiels
+  news: Actualités
+  contact: Contact
+
+# Footer
+footer:
+  made_with: Fait avec
+  powered_by: Propulsé par
+  last_updated: Dernière mise à jour
+
+# Blog
+blog:
+  read_more: Lire la suite
+  related_posts: Articles similaires
+  categories: Catégories
+  tags: Tags
+  share: Partager
+  comments: Commentaires
+
+# Projects
+projects:
+  view_project: Voir le projet
+  view_code: Voir le code
+  view_demo: Voir la démo
+
+# Publications
+publications:
+  download_pdf: Télécharger PDF
+  download_bibtex: Télécharger BibTeX
+  abstract: Résumé
+  bibtex: BibTeX
+  code: Code
+  data: Données
+  slides: Diapositives
+  video: Vidéo
+  poster: Poster
+  website: Site web
+
+# CV
+cv:
+  experience: Expérience
+  education: Formation
+  skills: Compétences
+  languages: Langues
+  interests: Centres d'intérêt
+  awards: Prix et distinctions
+
+# Common
+common:
+  languages: Langues
+  search: Rechercher
+  menu: Menu
+  close: Fermer
+  back_to_top: Retour en haut
+  loading: Chargement...
+  error: Erreur
+  not_found: Page non trouvée
+  page_not_found: Désolé, la page que vous recherchez n'existe pas.
+  return_home: Retour à l'accueil 
