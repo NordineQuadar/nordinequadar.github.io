@@ -12,7 +12,7 @@ profile:
   more_info: 
   
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 animated_background: true # includes an animated background
@@ -46,23 +46,26 @@ animated_background: true # includes an animated background
     <li>🧠 <strong>Learning:</strong>
         <ul>
             <li><a href="https://www.modular.com/">Mojo</a>, the new programming language.</li>
-            <li><a href="https://hanlab.mit.edu/courses/2023-fall-65940">Efficient ML.</a></li>
             <li><a href="https://interpretable-ml-class.github.io/">Explainable AI (XAI).</a></li>
+            <li><a href="https://hanlab.mit.edu/courses/2023-fall-65940">Efficient ML (✅ completed).</a></li>
+            
         </ul>
     </li>
     <li>📖 <strong>Reading:</strong>
         <ul>
-            <li><a href="https://amzn.to/4bVJppu">TinyML</a>.</li>
-            <li><a href="https://amzn.to/3Koe9Ue">Daring Greatly</a>.</li>
+            <li><a href="https://theleanstartup.com/">The Lean Startup.</a></li>
+            <li><a href="https://amzn.to/4bVJppu">TinyML  (✅ completed)</a>.</li>
+            <li><a href="https://amzn.to/3Koe9Ue">Daring Greatly  (✅ completed)</a>.</li>
         </ul>
     </li>
     <li>🔬 <strong>Working on:</strong>
         <ul>
-            <li>Drones RF Fingerprinting.</li>
-            <li>Fine Tuning LLaMA 2 for NLP project.</li>
-            <li>Certified in Cybersecurity (CC) - ISC2.</li>
+            <li>Drones/IoT RF Fingerprinting.</li>
+            <li><a href="https://www.ibm.com/think/topics/agentic-rag">Agentic RAG project Project</a>.</li>
+            <li>ISA/IEC 62443 Cybersecurity Certification</li>
             <li>Startup projects.</li>
         </ul>
     </li>
 </ul>
+
 

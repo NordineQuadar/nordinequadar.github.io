@@ -1,33 +1,15 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
-related_posts: false
+title: Reflecting on an inspiring week at IEEE CCECE 2025!
+date: 2025-05-26 00:00:00-0400
+inline: true
+related_posts: true
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I had the privilege of presenting one of our latest research on "Audio Recognition-based Method for RF Transmitters Classification using CNN-LSTM model" at the IEEE Canadian Conference on Electrical and Computing Engineering held at The University of British Columbia, Vancouver. Our work explores how audio recognition techniques can enhance RF device identification and authentication.
 
----
+Beyond presenting our research, I also participated in David Newman, PhD fascinating workshop on team creativity and design thinking using LEGO® Serious Play® methods. What started as an unconventional approach quickly proved to be incredibly effective for exploring team dynamics and fostering innovation. The hands-on activities provided fresh perspectives on collaborative problem-solving that I'm excited to apply in both academic and professional settings.
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The conference showcased the diverse applications of engineering research - from cybersecurity and machine learning to creative methodologies that enhance team performance. It's conferences like these that remind me why I love being part of the engineering community.
 
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Thank you to all the organizers, fellow researchers, and workshop facilitators who made this such a valuable experience. Looking forward to implementing these new insights in future projects!
