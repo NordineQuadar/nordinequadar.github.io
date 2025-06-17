@@ -61,8 +61,8 @@ animated_background: true # includes an animated background
     <li>🔬 <strong>Working on:</strong>
         <ul>
             <li>Drones/IoT RF Fingerprinting.</li>
-            <li><a href="https://www.ibm.com/think/topics/agentic-rag">Agentic RAG project Project</a>.</li>
-            <li>ISA/IEC 62443 Cybersecurity Certification</li>
+            <li><a href="https://www.ibm.com/think/topics/agentic-rag">Agentic RAG Project</a>.</li>
+            <li>ISA/IEC 62443 Cybersecurity Certification.</li>
             <li>Startup projects.</li>
         </ul>
     </li>
