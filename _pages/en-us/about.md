@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: About
 permalink: /
-subtitle: Researcher · Professional Engineer · Technical Manager 
+subtitle: Researcher · Professional Engineer · Builder
 
 profile:
   align: right
@@ -18,54 +18,30 @@ social: true # includes social icons at the bottom of the page
 animated_background: true # includes an animated background
 ---
 
-[Royal Military College of Canada - Kingston](https://www.rmc-cmr.ca/en)
+[Postdoctoral Researcher, Royal Military College of Canada](https://www.rmc-cmr.ca/en)
 
+Hey there! 👋 Welcome to my spot on the web!
 
+I'm a mix of engineer and researcher, always curious and always learning. I began my academic journey at the University of Ottawa, where I completed my bachelor's and master's degrees in electrical engineering and computer science.
 
-<p>
-    Hey there! 👋 Welcome to my spot on the web!
-</p>
-<p>
-    I'm like a mix of an engineer and a researcher, always curious and trying new things. I started my academic journey at the <a href="https://www.uottawa.ca/">University of Ottawa</a>, where I studied electrical engineering and computer science for my bachelor's and master's degrees.
-</p>
-<p>
-    For over a decade now, I've gained rich experiences across diverse industries and global landscapes. From my early days in field service roles to assuming technical leadership positions, I've navigated the complex challenges of life and real-world engineering with resilience and adaptability.
-</p>
-<p>
-    But here's the cool part: I've always had this itch for learning. After finishing up my master's degree under the supervision of Prof. <a href="https://www.eecs.uottawa.ca/~damours/">Claude D'Amours</a>, I thought, why not keep the momentum going? So, I dove into the Ph.D. adventure in Wireless security at the <a href="https://www.rmc-cmr.ca/en">Royal Military College of Canada</a> as civilian, with Prof. <a href="https://www.chehri.com/">Abdellah Chehri</a> as my director of research. I was doing this while I am having a full time job, a family and the birth of two beautiful kids :D. The Ph.D. project was not a plan for making money or looking for new positions, don't get me wrong! I would love to have better finance or a new career and I am working on that, but it was for the sake of learning. But the nice thing is that we got public funding for the project from <a href="https://www.mitacs.ca/">MITACS</a> and with the collaboration with <a href="https://www.thalesgroup.com/en/markets/digital-identity-and-security/">Thales Digital Identity and Security</a>. I also work in collaboration with researchers from different countries and write papers about the effect of AI and its use, new technologies or techniques such as smart cities, digital twin, renewable energies, and cybersecurity. I have tried many startup ideas and work on new ones.
-</p>
-<p>
-    Here's where I am! Keep learning and enjoying the journey...
-</p>
-<p>
-    Please check my <a href="/publications">publications</a> and work <a href="/cv">I have  done</a>, and if you have any questions, feel free to contact me through the links below 👇 - Email is best.
-</p>
-<h3>Currently...</h3>
+Over more than a decade in industry, I have moved from field service engineering to technical leadership roles, working across diverse sectors and solving real-world engineering challenges along the way.
 
-<ul>
-    <li>🧠 <strong>Learning:</strong>
-        <ul>
-            <li><a href="https://www.modular.com/">Mojo</a>, the new programming language.</li>
-            <li><a href="https://interpretable-ml-class.github.io/">Explainable AI (XAI).</a></li>
-            <li><a href="https://hanlab.mit.edu/courses/2023-fall-65940">Efficient ML (✅ completed).</a></li>
-            
-        </ul>
-    </li>
-    <li>📖 <strong>Reading:</strong>
-        <ul>
-            <li><a href="https://theleanstartup.com/">The Lean Startup.</a></li>
-            <li><a href="https://amzn.to/4bVJppu">TinyML  (✅ completed)</a>.</li>
-            <li><a href="https://amzn.to/3Koe9Ue">Daring Greatly  (✅ completed)</a>.</li>
-        </ul>
-    </li>
-    <li>🔬 <strong>Working on:</strong>
-        <ul>
-            <li>Drones/IoT RF Fingerprinting.</li>
-            <li><a href="https://www.ibm.com/think/topics/agentic-rag">Agentic RAG Project</a>.</li>
-            <li>ISA/IEC 62443 Cybersecurity Certification.</li>
-            <li>Startup projects.</li>
-        </ul>
-    </li>
-</ul>
+After finishing my master's under Prof. Claude D'Amours, I pursued a PhD in wireless security at the Royal Military College of Canada (RMC) as a civilian, supervised by Prof. Abdellah Chehri. The project was publicly funded through MITACS in collaboration with Thales Digital Identity and Security, and focused on deep learning for RF fingerprinting: teaching neural networks to recognize wireless devices by the physical "accent" of their radio signals.
 
+Today, my research has moved from identifying devices to protecting what they communicate. I work as a postdoctoral researcher on a project on post-quantum cryptography for satellite networks at RMC, exploring how to keep space communications secure in the quantum era, particularly on devices with tight power and bandwidth constraints. I also collaborate with researchers around the world on AI, cybersecurity, smart cities, digital twins, and renewable energy, and I keep building on the side, including a production SaaS platform I designed and operate.
 
+Here's where I am. Keep learning and enjoying the journey...
+
+Please check my publications and my work, and feel free to reach out through the links below 👇. Email is best.
+
+### Currently...
+
+- 🧠 **Learning:**
+  - ISA/IEC 62443 Cybersecurity Certification
+  - Formal verification tools (Tamarin, ProVerif)
+- 📖 **Reading:**
+  - The Lean Startup
+- 🔬 **Working on:**
+  - Post-quantum cryptography for satellite networks (CSA postdoc)
+  - Cryptographic bill of materials (CBOM) tooling
+  - SaaS product development
