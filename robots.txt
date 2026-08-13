@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nordine.quadar.github.io/sitemap.xml
+Sitemap: https://nordinequadar.github.io/sitemap.xml
