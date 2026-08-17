@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Dr. Nordine
+first_name: Nordine
 middle_name:
-last_name: Quadar, P.Eng
+last_name: Quadar, PhD, P.Eng
 email: quadar.nordine@gmail.com
 keywords: post-quantum cryptography, satellite communications, wireless security, crypto-agility, RF fingerprinting, deep learning, cybersecurity # add your own keywords or leave empty
 icon: 🔥 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
